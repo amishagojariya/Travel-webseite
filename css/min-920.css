@@ -1,0 +1,40 @@
+@media(max-width:920px) {
+    .home .main-text h3 {
+        font-size: 40px;
+    }
+
+    .services .card-content {
+        grid-template-columns: 1fr;
+    }
+
+    .about {
+        grid-template-columns: 1fr;
+    }
+
+    .about-img {
+        text-align: center;
+        orphans: 2;
+    }
+
+    .about-img img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .gallery-card {
+        grid-template-columns: 1fr;
+    }
+    .packages .card-content{
+        grid-template-columns: 1fr;
+    } 
+    .book{
+        grid-template-columns: 1fr;
+        max-width: 100%;
+    }
+    .reviews .card-content{
+        grid-template-columns: 1fr;
+    }
+    
+
+
+}

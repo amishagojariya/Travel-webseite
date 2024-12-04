@@ -1,0 +1,6 @@
+@media(max-width:500px)
+{
+    .home .main-text h3{
+        font-size: 30px;
+    }
+}
